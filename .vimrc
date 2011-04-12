@@ -75,5 +75,5 @@ nnoremap <leader><space> :noh<cr>
 nnoremap <tab> %
 vnoremap <tab> %
 
-" Use relative line numbers
+" Use relative line numbers - Only works in Vim 7.3 
 set rnu
