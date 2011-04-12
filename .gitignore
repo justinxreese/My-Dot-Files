@@ -37,7 +37,6 @@
 .gstreamer-0.10/*
 .gtk-bookmarks
 .hplip/*
-.htoprc
 .icedteaplugin/*
 .irssi/*
 .kde/*
@@ -67,7 +66,6 @@
 .recently-used
 .recently-used.xbel
 .screenlets/*
-.screenrc
 .selected_editor
 .shutter/*
 .ssh/*
@@ -79,7 +77,8 @@
 .thunderbird/*
 .toprc
 .update-manager-core/*
-.vim/*
+.vim/view/*
+.vim/.netrwhist
 .viminfo
 .vimrc.kennethlove
 .webapps/*
