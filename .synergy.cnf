@@ -1,0 +1,12 @@
+section: screens
+   lappy:
+         switchCorners = none
+         switchCornerSize = 0
+end
+section: links
+   lappy:
+end
+section: options
+   keystroke(super+control+h) = switchInDirection(left)
+   keystroke(super+control+l) = switchInDirection(right)
+end
